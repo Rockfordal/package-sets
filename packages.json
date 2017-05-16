@@ -1,5 +1,5 @@
 {
-   "erl-process": {
+   "erlprocess": {
     "dependencies": [
         "console",
         "prelude",
