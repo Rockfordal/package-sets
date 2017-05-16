@@ -1,4 +1,13 @@
 {
+   "erl-process": {
+    "dependencies": [
+        "console",
+        "prelude",
+      	"eff"
+    ],
+    "repo": "https://github.com/Rockfordal/purescript-erl-process.git",
+    "version": "0.0.1"
+  },
   "aff": {
     "dependencies": [
       "arrays",
